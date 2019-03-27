@@ -1,0 +1,18 @@
+#top-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #ffffff;
+  padding: 0 40px;
+
+  #title {
+    font-family: Lato;
+    letter-spacing: -2px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transform: translateY(-6px);
+  }
+}

@@ -1,7 +1,11 @@
 import React from "react";
+import Boxes from "./boxes";
 
 export default function Page() {
   return (
-    <h1>This is a placeholder.</h1>
+    <div>
+      <Boxes />
+      {/* Test */}
+    </div>
   );
 }
