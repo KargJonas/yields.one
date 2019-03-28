@@ -1,0 +1,19 @@
+// #scroll {
+//   height: 200vh;
+
+//   #boxes {
+//     position: fixed;
+//     top: 0;
+//   }
+// }
+
+#box-scroll {
+  height: 200vh;
+  position: relative;
+
+  #boxes {
+    // position: fixed;
+    position: relative;
+    top: 0;
+  }
+}
